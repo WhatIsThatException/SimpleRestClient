@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExchangeRateRESTClient/ExchangeRateRESTClient.iml" filepath="$PROJECT_DIR$/ExchangeRateRESTClient/ExchangeRateRESTClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodRESTServiceProject/FoodRESTServiceProject.iml" filepath="$PROJECT_DIR$/FoodRESTServiceProject/FoodRESTServiceProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolidayRESTClient/HolidayRESTClient.iml" filepath="$PROJECT_DIR$/HolidayRESTClient/HolidayRESTClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestClientTemplate.iml" filepath="$PROJECT_DIR$/RestClientTemplate.iml" />
+    </modules>
+  </component>
+</project>
